@@ -1,4 +1,8 @@
 # John Lemon
+Candied Carrots
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Carrot_cake_at_America_Graffiti_%28cropped%29.jpg/1920px-Carrot_cake_at_America_Graffiti_%28cropped%29.jpg" height="100" width="100" />
+
 Ingredients:
 
 1 pound carrots, cut into 2 inch pieces
