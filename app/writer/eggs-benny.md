@@ -1,6 +1,6 @@
 # Eggs Benny
 
-<img src="https://commons.wikimedia.org/wiki/File:Traditional_Eggs_Benedict.jpg#/media/File:Traditional_Eggs_Benedict.jpg" height="100" width="100" />
+<img src="https://tastesbetterfromscratch.com/wp-content/uploads/2013/08/Eggs-Benedict-11.jpg" height="100" width="100" />
 
 Recipe Picks:
 
